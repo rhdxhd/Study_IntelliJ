@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class CarTest {
     public static void main(String[] args) {
 
+
         Scanner scan = new Scanner(System.in);
 
         System.out.print("자동자번호:");
